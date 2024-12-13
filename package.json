@@ -14,7 +14,7 @@
   "license": "MIT",
   "module": "index.js",
   "name": "@kinggoesgaming/omem",
-  "publicConfig": {
+  "publishConfig": {
     "access": "public"
   },
   "repository": {

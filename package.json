@@ -1,0 +1,23 @@
+{
+  "author": "Hunar Roop Kahlon <hunar.roop@gmail.com>",
+  "description": "Minimal memoization library with explicit cache control",
+  "exports": {
+    ".": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "imports": {
+    "#*": "./*"
+  },
+  "license": "MIT",
+  "module": "index.js",
+  "name": "omem",
+  "publicConfig": {
+    "access": "public"
+  },
+  "scripts": {},
+  "type": "module",
+  "version": "0.0.0"
+}
